@@ -1,4 +1,4 @@
-<p align="center"><img width=27% src="https://github.com/juliajessica/template-webpack-karma/blob/master/media/epicodus_logo.png"></p>
+<p align="center"><img width=27% src="https://github.com/juliajessica/template-webpack-karma/blob/https://static1.squarespace.com/static/5524448ee4b0d6f6b83ab9e2/t/57cf3de246c3c4d2933aa57c/1526335696952/"></p>
 
 # _<p align="center">Julia Sheremet</p>_
 
@@ -45,11 +45,7 @@ _This project uses Webpack to bundle and minify the code. The test runner is Kar
   ```sh
     $ echo 'export PATH=/usr/local/bin:$PATH' >> ~/.bash_profile
   ```
-  #### Karma Installation
-  If you do not have `Karma` installed globally, then run the following:
-  ```sh   
-    $ npm install -g karma-cli
-   ```
+
   #### Install dependencies
   Enter the following code in the command line to install all dependencies:
   ```sh
@@ -65,15 +61,6 @@ _This project uses Webpack to bundle and minify the code. The test runner is Kar
   ```sh
     $ npm run start
   ```
-  To run test in `Karma`:
-  ```sh
-    $ npm test
-  ```
-    #### Install Copy Webpack Plugin
-    ```sh
-    npm i -D copy-webpack-plugin
-    ```
-
 ## <span style="color:#74875d;">Known Bugs</span>
 
 _Feel free to email me at [juliajessicasher@gmail.com](mailto:juliajessicasher@gmail.com) if you run into any issues or have questions, ideas or concerns. Please enjoy and feel free to share your opinion, constructive criticism, or comments of my work. :+1:_

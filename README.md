@@ -1,4 +1,4 @@
-<p align="center"><img width=27% src="https://github.com/juliajessica/template-webpack-karma/blob/https://static1.squarespace.com/static/5524448ee4b0d6f6b83ab9e2/t/57cf3de246c3c4d2933aa57c/1526335696952/"></p>
+<p align="center"><img width=27% src="src/img/epicodus_logo.png"></p>
 
 # _<p align="center">Julia Sheremet</p>_
 
@@ -14,7 +14,6 @@
 ## <span style="color:#74875d;">Description</span>
 
 _This webpage application is designed to...._
-
 
 _This project uses Webpack to bundle and minify the code. The test runner is Karma and the syntax flavor is Jasmine. Babel is used to transpile ES6. All dependencies required are included in this project._
 

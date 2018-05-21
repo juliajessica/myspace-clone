@@ -253,7 +253,7 @@ p {
 
 .parent-leftColumn {
   width: 300px;
-  margin: 20px;
+  margin: 0 25px 20px 20px;
 }
 
 .parent-rightColumn {
@@ -379,5 +379,45 @@ p {
   background-color: #6599cc;
   color: white;
   margin: 0px;
-  padding: 2px;
+  padding-left: 20px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.tom-url {
+  border: 1px solid #6599cc;
+  color: #6599cc;
+}
+
+.user-interests {
+  border: 2px solid #6599cc;
+}
+
+.user-interests h3 {
+  background-color: #6599cc;
+  color: white;
+  margin: 0px;
+  padding-left: 20px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+.interest-row {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.general-interest {
+  padding: 4px;
+  width: 100px;
+  color: #336699;
+  background-color: rgb(177, 208, 240);
+  border: 2px solid white;
+}
+
+.general-description {
+  padding: 4px;
+  width: 200px;
+  background-color: rgb(213, 232, 251);
+  border: 2px solid white;
 }

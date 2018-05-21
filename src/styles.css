@@ -241,11 +241,23 @@ p {
   color: black;
 }
 
-.parent-leftColumn {
+.profile-gramz {
   display: flex;
 
 }
 
-.parent-rightColumn {
+.parent-rightColumn h2 {
+  border: 2px solid black;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
 
+}
+
+.parent-leftColumn {
+  width: 300px;
+}
+
+.parent-rightColumn {
+  width: 460px;
 }

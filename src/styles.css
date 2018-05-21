@@ -386,7 +386,7 @@ p {
 
 .tom-url {
   border: 1px solid #6599cc;
-  color: #6599cc;
+  padding-left: 4px;
 }
 
 .user-interests {
@@ -407,7 +407,7 @@ p {
   justify-content: flex-start;
 }
 
-.general-interest {
+.general-interest, .details {
   padding: 4px;
   width: 100px;
   color: #336699;
@@ -415,7 +415,7 @@ p {
   border: 2px solid white;
 }
 
-.general-description {
+.general-description, .details-description {
   padding: 4px;
   width: 200px;
   background-color: rgb(213, 232, 251);

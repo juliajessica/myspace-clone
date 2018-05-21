@@ -260,6 +260,8 @@ p {
   width: 445px;
 }
 
+
+/*/// right colum of myspace page*/
 .right-col-text p {
   line-height: 40px;
 }
@@ -339,4 +341,43 @@ p {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+
+/*//// left colum of myspace page*/
+.top-user-info {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.left-user-img {
+ text-align: center;
+ line-height: 20px;
+}
+
+.right-user-info {
+  margin-left: 20px;
+}
+
+.blue {
+  color: #0047ba;
+  font-weight: bold;
+}
+
+.contact-selectors {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: space-around;
+}
+
+.user-contact-info {
+  border: 1px solid #6599cc;
+}
+
+.user-contact-info h3 {
+  background-color: #6599cc;
+  color: white;
+  margin: 0px;
+  padding: 2px;
 }

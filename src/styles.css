@@ -308,12 +308,11 @@ p {
   justify-content: flex-end;
 }
 
-.parentFriendsComments {
+.friends-comment {
   display: flex;
   flex-direction: row;
   vertical-align: top;
   background-color: rgb(255, 153, 51);
-
 }
 
 .friends-leftCol {
@@ -331,10 +330,9 @@ p {
   background-color: rgb(249, 214, 180);
   text-align: -webkit-left;
   vertical-align: top;
-  border: 1px 2px 3px solid white;
+  border: 1px solid white;
   width: 300px;
   padding: 4px;
-  /*margin: 0 2px 3px;*/
 }
 
 .img-style {
